@@ -1,8 +1,7 @@
 name: ESP InConcert
 favicon: null
-layout_spectrum: 0.99822
-typography_spectrum: 0.60651
-title: 'Digital SaaS Platform & Client Services Portal'
+layout_spectrum: 0.22774012852460146
+typography_spectrum: 0.5173975741490722
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#555555'
-    - '#b58729'
-    - '#800000'
-    - '#ff0000'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4226902606897056
+  lightness: 0.8437958757858723
+  saturation: 0.7980669187381864
+  rhythmicContrast: 0.2803982582408935
 purpose: []
