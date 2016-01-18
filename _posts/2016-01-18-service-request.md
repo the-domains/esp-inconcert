@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'll do the Work.  You do the REST!"
-datePublished: '2016-01-18T02:50:56.374Z'
-dateModified: '2016-01-18T02:50:56.306Z'
+datePublished: '2016-01-18T02:50:56.967Z'
+dateModified: '2016-01-18T02:50:56.374Z'
 title: Service Request
 author: []
 sourcePath: _posts/2016-01-18-service-request.md
