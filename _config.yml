@@ -23,7 +23,7 @@ color:
     - '#800000'
     - '#ff0000'
   brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
