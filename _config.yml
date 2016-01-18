@@ -1,8 +1,7 @@
 name: ESP InConcert
 favicon: null
-layout_spectrum: 0.99822
-typography_spectrum: 0.60651
-title: InConcert
+layout_spectrum: 0.4333023461513221
+typography_spectrum: 0.7472824670840055
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#555555'
-    - '#b58729'
-    - '#800000'
-    - '#ff0000'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9613451648037881
+  lightness: 0.6687157130800188
+  saturation: 0.44456239929422736
+  rhythmicContrast: 0.44057097751647234
 purpose: []
