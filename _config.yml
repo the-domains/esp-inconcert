@@ -1,7 +1,7 @@
 name: ESP InConcert
 favicon: null
-layout_spectrum: 0.99822
-typography_spectrum: 0.60651
+layout_spectrum: 1
+typography_spectrum: 0.61953
 title: InConcert
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#ff0000'
   brandStrength: 0
   lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
