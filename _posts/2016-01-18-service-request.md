@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'll do the Work.  You do the REST!"
-datePublished: '2016-01-18T01:57:25.704Z'
-dateModified: '2016-01-18T01:57:17.266Z'
+datePublished: '2016-01-18T02:44:17.944Z'
+dateModified: '2016-01-18T02:44:14.145Z'
 title: Service Request
 author: []
 sourcePath: _posts/2016-01-18-service-request.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Tickets Please!
-![Tickets Please!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/707f25cb85accb551ba572567b2f9fb51de0739f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b863e0b-36eb-4571-a24b-a4548e8c9cec.png)
